@@ -1,2 +1,2 @@
-cd C:\Users\admin\myworkspace\inetBankingV1
+cd D:\Study Materials\SW Testing
 mvn clean install
